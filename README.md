@@ -1,8 +1,8 @@
 # Todo-list
 
-live link: https://vivekranjansahoo.github.io/weather-app/
+live link: https://vivekranjansahoo.github.io/Todo-list/
 
-Images
+Screenshot
 
 ![vivek](images/screenshot.PNG)
 
